@@ -1,1 +1,1 @@
-# Node Blog
+# node-blog
